@@ -9,6 +9,7 @@
     "--share=network",
     "--socket=x11",
     "--filesystem=host",
+    "--filesystem=/tmp",
     "--talk-name=org.gtk.vfs",
     "--talk-name=org.gtk.vfs.*",
     "--talk-name=org.freedesktop.FileManager1"
