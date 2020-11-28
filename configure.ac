@@ -3067,9 +3067,11 @@ icons/Symbolic-Inverted-High-Contrast/Makefile
 themes/Makefile
 themes/System/Makefile
 themes/Gray/Makefile
+themes/Gray-Large-Text/Makefile
 themes/Dark/Makefile
 themes/Dark-Large-Text/Makefile
 themes/Light/Makefile
+themes/Light-Large-Text/Makefile
 data/Makefile
 data/brushes/Makefile
 data/brushes/Basic/Makefile
