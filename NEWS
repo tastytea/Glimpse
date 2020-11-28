@@ -11,6 +11,7 @@ Overview of Changes in Glimpse 0.2.1
 ====================================
 * Uplifted GNOME Platform version in Flatpak from 3.36 to 3.38
 * Flatpak now supports opening and saving files in /tmp directory
+* Backported fix for upstream regression #4496 that breaks liquid rescale plugin
 * TO BE DETERMINED - Still in development
 
 Overview of Changes in Glimpse 0.2.0
