@@ -3068,6 +3068,7 @@ themes/Makefile
 themes/System/Makefile
 themes/Gray/Makefile
 themes/Dark/Makefile
+themes/Dark-Large-Text/Makefile
 themes/Light/Makefile
 data/Makefile
 data/brushes/Makefile
