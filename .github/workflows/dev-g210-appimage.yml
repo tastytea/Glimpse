@@ -34,8 +34,8 @@ jobs:
           echo "INSTALL_PREFIX=/usr" >> $GITHUB_ENV
           echo "GLIMPSE_VERSION=${GITHUB_RUN_NUMBER}.git-${GITHUB_SHA:0:7}" >> $GITHUB_ENV
 
-      - name: Clone BABL 0.1.82 from GNOME gitlab server
-        run: git clone --depth=1 --branch BABL_0_1_82 https://gitlab.gnome.org/GNOME/babl.git $SRC_PREFIX/babl
+      - name: Clone BABL 0.1.84 from GNOME gitlab server
+        run: git clone --depth=1 --branch BABL_0_1_84 https://gitlab.gnome.org/GNOME/babl.git $SRC_PREFIX/babl
 
       - name: Clone MyPaint-Brushes 1.3.1 from Github
         run: git clone --depth=1 --branch v1.3.1 https://github.com/mypaint/mypaint-brushes.git $SRC_PREFIX/mypaint-brushes
@@ -43,8 +43,8 @@ jobs:
       - name: Clone LibMyPaint 1.5.1 from Github
         run: git clone --depth=1 --branch v1.5.1 https://github.com/mypaint/libmypaint.git $SRC_PREFIX/libmypaint
 
-      - name: Clone GEGL 0.4.26 from GNOME gitlab server
-        run: git clone --depth=1 --branch GEGL_0_4_26 https://gitlab.gnome.org/GNOME/gegl.git $SRC_PREFIX/gegl
+      - name: Clone GEGL 0.4.28 from GNOME gitlab server
+        run: git clone --depth=1 --branch GEGL_0_4_28 https://gitlab.gnome.org/GNOME/gegl.git $SRC_PREFIX/gegl
 
       - name: Build BABL
         run: |

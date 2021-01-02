@@ -1,12 +1,12 @@
 ## Detailed build instructions
 
-Glimpse Image Editor 0.2.0 depends on the following subcomponents:
+Glimpse Image Editor 0.2.2 depends on the following subcomponents:
 
 - GNU Image Manipulation Program 2.10.18
-- BABL 0.1.78
+- BABL 0.1.84
 - MyPaint-Brushes 1.3.1
 - LibMypaint 1.5.1
-- GEGL 0.4.22
+- GEGL 0.4.26
 
 You must build the components in this order:
 
