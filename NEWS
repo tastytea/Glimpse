@@ -15,6 +15,9 @@ Overview of Changes in Glimpse 0.2.1
 * Added permissions for Flatpak to open, save and edit files in the /tmp directory
 * Backported fix for upstream regression #4496 that breaks liquid rescale plugin
 * Added Large Text variants of Dark, Gray and Light UI themes
+* Removed sticker border from Windows program icon
+* Updated Github Actions for Windows so it copies files into the build directory
+* Updated Github Actions for Windows so build dependencies can be downloaded separately
 * TO BE DETERMINED - Still in development
 
 Overview of Changes in Glimpse 0.2.0
