@@ -54,8 +54,8 @@ jobs:
     - name: Clone LibMyPaint 1.5.1 from Github
       run: git clone --depth=1 --branch v1.5.1 https://github.com/mypaint/libmypaint.git $SRC_PREFIX/libmypaint
       
-    - name: Clone GEGL 0.4.26 from GNOME gitlab server
-      run: git clone --depth=1 --branch GEGL_0_4_26 https://gitlab.gnome.org/GNOME/gegl.git $SRC_PREFIX/gegl
+    - name: Clone GEGL 0.4.28 from GNOME gitlab server
+      run: git clone --depth=1 --branch GEGL_0_4_28 https://gitlab.gnome.org/GNOME/gegl.git $SRC_PREFIX/gegl
       
     - name: Create install prefix
       run: |
