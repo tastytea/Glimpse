@@ -14,6 +14,7 @@ Overview of Changes in Glimpse 0.2.1
 * Uplifted GNOME Platform version in Flatpak from 3.36 to 3.38
 * Added permissions for Flatpak to open, save and edit files in the /tmp directory
 * Backported fix for upstream regression #4496 that breaks liquid rescale plugin
+* Backported fix for upstream regression caused by GEGL 0.4.28, made gegl:introspection optional
 * Added Large Text variants of Dark, Gray and Light UI themes
 * Removed sticker border from Windows program icon
 * Updated Github Actions for Windows so it copies files into the build directory
