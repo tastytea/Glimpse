@@ -20,6 +20,7 @@ Overview of Changes in Glimpse 0.2.1
 * Removed sticker border from Windows program icon
 * Updated Github Actions for Windows so it copies useful files into the build directory
 * Moved links back to glimpse-editor.org
+* Updated docs with updated info and removed Bobby Moss as maintainer
 * TO BE DETERMINED - Still in development
 
 Overview of Changes in Glimpse 0.2.0
