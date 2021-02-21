@@ -25,7 +25,7 @@ We are also working on a similar project in parallel called "Glimpse NX". That w
 ## How can I keep up to date with Glimpse's progress?
 Our official project website is now live at https://glimpse-editor.github.io.
 
-You can also follow us on [the fediverse](https://mastodon.art/@glimpse), [Facebook](https://www.facebook.com/glimpse.editor) and [Twitter](https://twitter.com/glimpse_editor).
+You can also follow us on [the fediverse](https://mastodon.art/@glimpse) and [Twitter](https://twitter.com/glimpse_editor).
 
 You can see how the forked code is progressing on the [dev-g210](https://github.com/glimpse-editor/Glimpse/tree/dev-g210) branch.
 
