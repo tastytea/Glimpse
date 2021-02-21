@@ -1,5 +1,5 @@
 # Contributing to Glimpse Image Editor
-Thank you for your interest in contributing to the Glimpse project! Feel free to reach out to us on the #glimpse:matrix.org Matrix channel and read the latest project news on https://glimpse-editor.org.
+Thank you for your interest in contributing to the Glimpse project! Feel free to reach out to us on the Glimpse project Discord server and read the latest project news on https://glimpse-editor.org.
 
 Before getting in contact, please familiarize yourself with our [code of conduct](https://glimpse-editor.org/code-of-conduct/). For convenience we have provided a copy of that document with the source code in a file called `CODE_OF_CONDUCT.md`.
 
@@ -47,8 +47,8 @@ We estimate that it could be a number of years before Glimpse NX is ready, so we
 There are a number of ways to request support:
 
 * Raise an issue on our [Github project](https://github.com/glimpse-editor/Glimpse) using the "question" template
-* Reach out to us on the #glimpse:matrix.org Matrix channel
-* Send us a message on social media (we monitor accounts on [the fediverse](https://mastodon.art/@glimpse), [Facebook](https://www.facebook.com/glimpse.editor) and [Twitter](https://twitter.com/glimpse_editor))
+* Reach out to us on the Glimpse Discord server using the invite link provided here: https://glimpse-editor.org/contribute/
+* Send us a message on social media (we monitor accounts on [the fediverse](https://mastodon.art/@glimpse) and [Twitter](https://twitter.com/glimpse_editor))
 
 [Return to top](#top)
 
@@ -56,8 +56,8 @@ There are a number of ways to request support:
 There are a number of ways to report a bug:
 
 * Raise an issue on our [Github project](https://github.com/glimpse-editor/Glimpse) using the "bug report" template
-* Reach out to us on the #glimpse:matrix.org Matrix channel
-* Send us a message on social media (we monitor accounts on [the fediverse](https://mastodon.art/@glimpse), [Facebook](https://www.facebook.com/glimpse.editor) and [Twitter](https://twitter.com/glimpse_editor))
+* Reach out to us on the Glimpse Discord server using the invite link provided here: https://glimpse-editor.org/contribute/ 
+* Send us a message on social media (we monitor accounts on [the fediverse](https://mastodon.art/@glimpse) and [Twitter](https://twitter.com/glimpse_editor))
 
 [Return to top](#top)
 
@@ -65,8 +65,8 @@ There are a number of ways to report a bug:
 There are a number of ways to request a new feature:
 
 * Raise an issue on our [Github project](https://github.com/glimpse-editor/Glimpse) using the "feature request" template
-* Reach out to us on the #glimpse:matrix.org Matrix channel
-* Send us a message on social media (we monitor accounts on [the fediverse](https://mastodon.art/@glimpse), [Twitter](https://twitter.com/glimpse_editor) and [Facebook](https://www.facebook.com/glimpse.editor))
+* Reach out to us on the Glimpse Discord server using the invite link provided here: https://glimpse-editor.org/contribute/
+* Send us a message on social media (we monitor accounts on [the fediverse](https://mastodon.art/@glimpse) and [Twitter](https://twitter.com/glimpse_editor))
 
 [Return to top](#top)
 
@@ -89,23 +89,23 @@ To make changes to the project website, raise a pull request against our website
 
 To add content to the Glimpse developer wiki, request access to https://github.com/glimpse-editor/Glimpse/wiki
 
-If you have expertise to provide for our future end user online and offline help pages, please join us on the #glimpse:matrix.org Matrix channel.
+If you have expertise to provide for our future end user online and offline help pages, please join us on the Glimpse Discord server using the invite link provided here: https://glimpse-editor.org/contribute/
 
 [Return to top](#top)
 
 ## Contribute translations
 To change translation files in the codebase, raise a pull request on our [Github project](https://github.com/glimpse-editor/Glimpse) and follow the template.
 
-If you have expertise to provide for our future translation tools, please join us on the #glimpse:matrix.org Matrix channel.
+If you have expertise to provide for our future end user online and offline help pages, please join us on the Glimpse Discord server using the invite link provided here: https://glimpse-editor.org/contribute/
 
 [Return to top](#top)
 
 ## Join the community
 We recommend you familiarize yourself with our [code of conduct](https://glimpse-editor.org/code-of-conduct/) and [how we govern ourselves](https://glimpse-editor.org/about/#how-does-this-project-govern-itself).
 
-Once you have done so, you are welcome to join us on the #glimpse:matrix.org Matrix channel. That communication channel is where our internal discussions happen and project decisions are made.
+Once you have done so, you are welcome to join us on the #glimpse:matrix.org on the Glimpse Discord server using the invite link provided here: https://glimpse-editor.org/contribute/. That communication channel is where our internal discussions happen and project decisions are made.
 
-As you become more involved with the project you will be invited onto other Matrix channels and credited in our `AUTHORS` file.
+As you become more involved with the project you will be granted the "Contributor" role and credited in our `AUTHORS` file.
 
 [Return to top](#top)
 
@@ -117,9 +117,9 @@ You can also scrutinize how much we receive in donations and what we spend that 
 [Return to top](#top)
 
 ## Follow project news
-We provide regular blog post updates on our project website and its "full text" RSS feed: https://glimpse-editor.org.
+We provide regular blog post updates on our project website and its "full text" RSS feed: https://glimpse-editor.org/posts/index.xml
 
-You can also follow us on social media platforms such as [the fediverse](https://mastodon.art/@glimpse), [Facebook](https://www.facebook.com/glimpse.editor) and [Twitter](https://twitter.com/glimpse_editor).
+You can also follow us on social media platforms such as [the fediverse](https://mastodon.art/@glimpse) and [Twitter](https://twitter.com/glimpse_editor).
 
 [Return to top](#top)
 
