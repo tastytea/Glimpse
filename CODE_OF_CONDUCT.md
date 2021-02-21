@@ -1,5 +1,5 @@
 # Code of Conduct
-The latest version of the Glimpse code of conduct can be found at https://glimpse-editor.orgcontribute/
+The latest version of the Glimpse code of conduct can be found at https://glimpse-editor.org/code-of-conduct/
 
 ## Our Pledge
 
@@ -57,7 +57,7 @@ a project may be further defined and clarified by project maintainers.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported by contacting any member of the project leadership (sometimes called
-"the governing team") by [email](mailto:glimpse.editor@icloud.com).
+"the governing team") by [email](mailto:info@glimpse-editor.org).
 
 All complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The project leadership
